@@ -1,7 +1,20 @@
   {
-    "Counter Blox":{"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/cb.lua", "gameid": 115797356},
+    "Case Clicker":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 290999714},
+    "Counter Blox":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/cb.lua", "gameid": 115797356},
     "Arsenal":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/arsenal.lua", "gameid": 111958650},
+    "Murder Mystery":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/mm2.lua", "gameid": 66654135},
+    "Prison Life":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 73885730},
+    "Build Aboat":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 210851291},
     "Adopt me":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/adoptme.lua", "gameid": 383310974},
-     "The Wild West":{"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/TheWildWest2.lua", "gameid": 807930589},
-    "Murder":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/mm2.lua", "gameid": 66654135}
+    "Lumber Tycoon":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 2471084},
+    "Ninja":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 1335695570},
+    "Jail":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 245662005},
+    "phantom":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 113491250},
+    "The Wild West":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/TheWildWest2.lua", "gameid": 807930589},
+    "Swordburst 2":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 212154879},
+    "Ro Ghoul":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 380704901},
+    "Recoil":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 1534453623},
+    "Polyguns":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 146094957},
+    "Alone":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 1033810431},
+    "Custom Duels":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 936191547}
   }
