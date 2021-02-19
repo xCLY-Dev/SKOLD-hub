@@ -1,0 +1,7 @@
+  {
+    "Counter Blox":{"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/cb.lua", "gameid": 115797356},
+    "Arsenal":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/arsenal.lua", "gameid": 111958650},
+    "Adopt me":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/adoptme.lua", "gameid": 383310974},
+     "The Wild West":{"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/TheWildWest2.lua", "gameid": 807930589},
+    "Murder":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/mm2.lua", "gameid": 66654135}
+  }
