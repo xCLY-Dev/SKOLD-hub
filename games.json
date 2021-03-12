@@ -1,6 +1,6 @@
   {
     "Toh":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/toh.lua", "gameid": 703124385},
-    "Counter Blox":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SSourceLient/main/cb.lua", "gameid": 115797356},
+    "Counter Blox":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/cb.lua", "gameid": 115797356},
     "Arsenal":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/arsenal.lua", "gameid": 111958650},
     "Murder Mystery":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/mm2.lua", "gameid": 66654135},
     "Prison Life":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 73885730},
