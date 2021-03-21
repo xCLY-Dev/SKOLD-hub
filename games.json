@@ -7,7 +7,7 @@
     "sol":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/sol.lua", "gameid": 1119466531},
     "Adopt me":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/adoptme.lua", "gameid": 383310974},
     "Strucid":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/strucid.lua", "gameid": 833423526},
-    "Ninja":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 1335695570},
+    "vsim":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/vsim.lua", "gameid": 81762198},
     "Jail":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 245662005},
     "phantom":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/no.lua", "gameid": 113491250},
     "The Wild West":{"script":"https://raw.githubusercontent.com/xCLY-Dev/SKOLD-hub/main/Games/TheWildWest2.lua", "gameid": 807930589},
